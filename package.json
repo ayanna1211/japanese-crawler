@@ -1,0 +1,31 @@
+{
+  "name": "crawl",
+  "description": "Website crawler and differencer",
+  "version": "0.3.1",
+  "author": "Mike Moulton <mike@meltmedia.com>",
+  "contributors": [ 
+    { "name": "Nick Crohn", "email": "nick@meltmedia.com" }
+  ],
+  "dependencies": {
+    "simplecrawler": "0.0.x",
+    "first": "0.0.x",
+    "mime": "1.2.x",
+    "optimist": "0.3.x",
+    "node_hash": "0.2.x",
+    "colors": ">= 0.6.0-1",
+    "underscore": "1.4.x",
+    "prettyjson": "0.7.x"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": ["crawl", "differencer", "diff", "web", "website"],
+  "repository": "git://github.com/mmoulton/crawl",
+  "main": "index",
+  "bin": { "crawl": "./bin/crawl" },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": { "node":">= 0.8.0" }
+}
