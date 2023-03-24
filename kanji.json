@@ -1,0 +1,2697 @@
+[
+	{
+		"sort": 21,
+		"kanji": "値",
+		"hanViet": "TRỊ",
+		"onyomi": "ち",
+		"nghiaHanViet": "giá trị"
+	},
+	{
+		"sort": 68,
+		"kanji": "商",
+		"hanViet": "THƯƠNG",
+		"onyomi": "しょう",
+		"nghiaHanViet": "thương mại, thương số"
+	},
+	{
+		"sort": 8,
+		"kanji": "付",
+		"hanViet": "PHÓ",
+		"onyomi": "ふ",
+		"nghiaHanViet": "phụ thuộc, phụ lục"
+	},
+	{
+		"sort": 40,
+		"kanji": "刻",
+		"hanViet": "KHẮC",
+		"onyomi": "こく",
+		"nghiaHanViet": "thời khắc"
+	},
+  {
+		"sort": 41,
+		"kanji": "割",
+		"hanViet": "CÁT",
+		"onyomi": "かつ",
+		"nghiaHanViet": "chia cắt"
+	},
+	{
+		"sort": 14,
+		"kanji": "余",
+		"hanViet": "DƯ",
+		"onyomi": "よ",
+		"nghiaHanViet": "thừa ra, số lẻ ra, ngoài ra"
+	},
+	{
+		"sort": 10,
+		"kanji": "任",
+		"hanViet": "NHIỆM",
+		"onyomi": "にん",
+		"nghiaHanViet": "trách nhiệm, nhiệm vụ"
+	},
+	{
+		"sort": 53,
+		"kanji": "参",
+		"hanViet": "THAM,SÂM",
+		"onyomi": "さん、しん",
+		"nghiaHanViet": "tham chiếu, tham quan, tham khảo"
+	},
+	{
+		"sort": 99,
+		"kanji": "対",
+		"hanViet": "ĐỐI",
+		"onyomi": "たい、つい",
+		"nghiaHanViet": "đối diện, phản đối, đối với"
+	},
+	{
+		"sort": 11,
+		"kanji": "伝",
+		"hanViet": "TRUYỀN",
+		"onyomi": "でん、てん",
+		"nghiaHanViet": "truyền đạt, truyền động"
+	},
+	{
+		"sort": 34,
+		"kanji": "列",
+		"hanViet": "LIỆT",
+		"onyomi": "れつ、れ",
+		"nghiaHanViet": "hàng lối, thứ hạng"
+	},
+	{
+		"sort": 15,
+		"kanji": "例",
+		"hanViet": "LỆ",
+		"onyomi": "れい",
+		"nghiaHanViet": "ví dụ, tiền lệ"
+	},
+	{
+		"sort": 33,
+		"kanji": "処",
+		"hanViet": "XỬ,XỨ",
+		"onyomi": "しょ",
+		"nghiaHanViet": "cư xử, xử trí, xử lí"
+	},
+	{
+		"sort": 37,
+		"kanji": "利",
+		"hanViet": "LỢI",
+		"onyomi": "り",
+		"nghiaHanViet": "phúc lợi, lợi ích"
+	},
+	{
+		"sort": 120,
+		"kanji": "忘",
+		"hanViet": "VONG",
+		"onyomi": "ぼう",
+		"nghiaHanViet": "quên"
+	},
+	{
+		"sort": 35,
+		"kanji": "初",
+		"hanViet": "SƠ",
+		"onyomi": "しょ",
+		"nghiaHanViet": "sơ cấp, Mới, trước"
+	},
+	{
+		"sort": 3,
+		"kanji": "争",
+		"hanViet": "TRANH",
+		"onyomi": "そう",
+		"nghiaHanViet": "chiến tranh, tranh luận"
+	},
+	{
+		"sort": 5,
+		"kanji": "亡",
+		"hanViet": "VONG,VÔ",
+		"onyomi": "ぼう、もう",
+		"nghiaHanViet": "diệt vong"
+	},
+  {
+		"sort": 6,
+		"kanji": "交",
+		"hanViet": "GIAO",
+		"onyomi": "こう",
+		"nghiaHanViet": "giao lưu, giao thông"
+	},
+  {
+		"sort": 7,
+		"kanji": "他",
+		"hanViet": "THA",
+		"onyomi": "た",
+		"nghiaHanViet": "khác"
+	},
+	{
+		"sort": 42,
+		"kanji": "加",
+		"hanViet": "GIA",
+		"onyomi": "か",
+		"nghiaHanViet": "gia giảm"
+	},
+	{
+		"sort": 25,
+		"kanji": "備",
+		"hanViet": "BỊ",
+		"onyomi": "び",
+		"nghiaHanViet": "trang bị, phòng bị, thiết bị"
+	},
+	{
+		"sort": 55,
+		"kanji": "収",
+		"hanViet": "THU,THÂU",
+		"onyomi": "しゅう",
+		"nghiaHanViet": "thu nhập"
+	},
+	{
+		"sort": 43,
+		"kanji": "助",
+		"hanViet": "TRỢ",
+		"onyomi": "じょ",
+		"nghiaHanViet": "trợ giúp, cứu trợ"
+	},
+  {
+		"sort": 44,
+		"kanji": "努",
+		"hanViet": "NỖ",
+		"onyomi": "ど",
+		"nghiaHanViet": "nỗ lực, cố gắng"
+	},
+	{
+		"sort": 26,
+		"kanji": "優",
+		"hanViet": "ƯU",
+		"onyomi": "ゆう、う",
+		"nghiaHanViet": "ưu việt, ưu thế, ưu tiên"
+	},
+	{
+		"sort": 63,
+		"kanji": "吹",
+		"hanViet": "XUY,XÚY",
+		"onyomi": "すい",
+		"nghiaHanViet": "thổi, cổ xúy"
+	},
+  {
+		"sort": 64,
+		"kanji": "告",
+		"hanViet": "CÁO",
+		"onyomi": "こく",
+		"nghiaHanViet": "báo cáo, thông cáo"
+	},
+	{
+		"sort": 31,
+		"kanji": "最",
+		"hanViet": "TỐI",
+		"onyomi": "さい、しゅ",
+		"nghiaHanViet": "cao nhất, rất, giỏi hơn"
+	},
+	{
+		"sort": 128,
+		"kanji": "息",
+		"hanViet": "TỨC",
+		"onyomi": "そく",
+		"nghiaHanViet": "con trai"
+	},
+	{
+		"sort": 17,
+		"kanji": "係",
+		"hanViet": "HỆ",
+		"onyomi": "けい",
+		"nghiaHanViet": "quan hệ, hệ số"
+	},
+  {
+		"sort": 18,
+		"kanji": "信",
+		"hanViet": "TÍN",
+		"onyomi": "しん",
+		"nghiaHanViet": "tín nhiệm, tin cậy, tin"
+	},
+	{
+		"sort": 32,
+		"kanji": "冷",
+		"hanViet": "LÃNH",
+		"onyomi": "れい",
+		"nghiaHanViet": "lạnh, nhạt nhẽo"
+	},
+	{
+		"sort": 0,
+		"kanji": "与",
+		"hanViet": "DỰ,DỮ",
+		"onyomi": "よ",
+		"nghiaHanViet": "tham dự"
+	},
+  {
+		"sort": 1,
+		"kanji": "両",
+		"hanViet": "LƯỠNG",
+		"onyomi": "りょう",
+		"nghiaHanViet": "hai bên"
+	},
+  {
+		"sort": 2,
+		"kanji": "予",
+		"hanViet": "DỰ",
+		"onyomi": "よ",
+		"nghiaHanViet": "dự định"
+	},
+	{
+		"sort": 80,
+		"kanji": "妻",
+		"hanViet": "THÊ",
+		"onyomi": "さい",
+		"nghiaHanViet": "thê tử"
+	},
+  {
+		"sort": 81,
+		"kanji": "娘",
+		"hanViet": "NƯƠNG",
+		"onyomi": "じょう",
+		"nghiaHanViet": "cô nương, nàng"
+	},
+  {
+		"sort": 83,
+		"kanji": "婦",
+		"hanViet": "PHỤ",
+		"onyomi": "ふ",
+		"nghiaHanViet": "phụ nữ, vợ"
+	},
+	{
+		"sort": 50,
+		"kanji": "単",
+		"hanViet": "ĐƠN",
+		"onyomi": "たん",
+		"nghiaHanViet": "cô đơn, đơn độc"
+	},
+  {
+		"sort": 46,
+		"kanji": "務",
+		"hanViet": "VỤ",
+		"onyomi": "む",
+		"nghiaHanViet": "chức vụ, công tác"
+	},
+	{
+		"sort": 47,
+		"kanji": "勝",
+		"hanViet": "THẮNG",
+		"onyomi": "しょう",
+		"nghiaHanViet": "thắng lợi, thắng cảnh"
+	},
+	{
+		"sort": 71,
+		"kanji": "困",
+		"hanViet": "KHỐN",
+		"onyomi": "こん",
+		"nghiaHanViet": "khốn cùng"
+	},
+  {
+		"sort": 72,
+		"kanji": "園",
+		"hanViet": "VIÊN",
+		"onyomi": "えん",
+		"nghiaHanViet": "công viên"
+	},
+	{
+		"sort": 27,
+		"kanji": "全",
+		"hanViet": "TOÀN",
+		"onyomi": "ゼん",
+		"nghiaHanViet": "toàn bộ, Xong, đủ"
+	},
+  {
+		"sort": 28,
+		"kanji": "共",
+		"hanViet": "CỘNG",
+		"onyomi": "きょう",
+		"nghiaHanViet": "cùng, chung"
+	},
+	{
+		"sort": 16,
+		"kanji": "供",
+		"hanViet": "CUNG",
+		"onyomi": "きょう、く、くう、ぐ",
+		"nghiaHanViet": "tùy tùng, hầu hạ, dâng nạp"
+	},
+	{
+		"sort": 57,
+		"kanji": "受",
+		"hanViet": "THỤ,THỌ",
+		"onyomi": "じゅ",
+		"nghiaHanViet": "nhận, tiếp thu"
+	},
+  {
+		"sort": 58,
+		"kanji": "号",
+		"hanViet": "HIỆU",
+		"onyomi": "ごう",
+		"nghiaHanViet": "dấu hiệu, số"
+	},
+	{
+		"sort": 54,
+		"kanji": "反",
+		"hanViet": "PHẢN",
+		"onyomi": "はん、ほん、たん、ほ",
+		"nghiaHanViet": "phản loạn, phản đối"
+	},
+	{
+		"sort": 36,
+		"kanji": "判",
+		"hanViet": "PHÁN",
+		"onyomi": "はん、ばん",
+		"nghiaHanViet": "phán quyết, phán đoán"
+	},
+	{
+		"sort": 162,
+		"kanji": "景",
+		"hanViet": "CẢNH",
+		"onyomi": "けい",
+		"nghiaHanViet": "thắng cảnh, quang cảnh"
+	},
+	{
+		"sort": 153,
+		"kanji": "政",
+		"hanViet": "CHÍNH,CHÁNH",
+		"onyomi": "せい、しょう",
+		"nghiaHanViet": "chính phủ, chính sách, hành chính"
+	},
+	{
+		"sort": 146,
+		"kanji": "招",
+		"hanViet": "CHIÊU",
+		"onyomi": "しょう",
+		"nghiaHanViet": "chiêu đãi, Vẫy"
+	},
+	{
+		"sort": 4,
+		"kanji": "互",
+		"hanViet": "HỖ",
+		"onyomi": "ご",
+		"nghiaHanViet": "tương hỗ, Đắp đổi"
+	},
+	{
+		"sort": 38,
+		"kanji": "到",
+		"hanViet": "ĐÁO",
+		"onyomi": "とう",
+		"nghiaHanViet": "đến nơi"
+	},
+	{
+		"sort": 9,
+		"kanji": "件",
+		"hanViet": "KIỆN",
+		"onyomi": "けん",
+		"nghiaHanViet": "điều kiện, sự kiện, bưu kiện"
+	},
+	{
+		"sort": 56,
+		"kanji": "取",
+		"hanViet": "THỦ",
+		"onyomi": "しゅ",
+		"nghiaHanViet": "lấy, nhận"
+	},
+	{
+		"sort": 48,
+		"kanji": "勤",
+		"hanViet": "CẦN",
+		"onyomi": "きん、ごん",
+		"nghiaHanViet": "chuyên cần"
+	},
+	{
+		"sort": 91,
+		"kanji": "客",
+		"hanViet": "KHÁCH",
+		"onyomi": "きゃく、かく",
+		"nghiaHanViet": "hành khách, thực khách"
+	},
+	{
+		"sort": 22,
+		"kanji": "偉",
+		"hanViet": "VĨ",
+		"onyomi": "い",
+		"nghiaHanViet": "vĩ đại"
+	},
+  {
+		"sort": 23,
+		"kanji": "側",
+		"hanViet": "TRẮC",
+		"onyomi": "そく",
+		"nghiaHanViet": "phía, bề"
+	},
+	{
+		"sort": 129,
+		"kanji": "悲",
+		"hanViet": "BI",
+		"onyomi": "ひ",
+		"nghiaHanViet": "sầu bi, bi quan"
+	},
+	{
+		"sort": 189,
+		"kanji": "決",
+		"hanViet": "QUYẾT",
+		"onyomi": "けつ",
+		"nghiaHanViet": "quyết định, tháo"
+	},
+	{
+		"sort": 87,
+		"kanji": "完",
+		"hanViet": "HOÀN",
+		"onyomi": "かん",
+		"nghiaHanViet": "hoàn thành, hoàn toàn"
+	},
+	{
+		"sort": 185,
+		"kanji": "残",
+		"hanViet": "TÀN",
+		"onyomi": "ざん、さん",
+		"nghiaHanViet": "tàn dư, tàn tích, tàn đảng"
+	},
+	{
+		"sort": 139,
+		"kanji": "打",
+		"hanViet": "ĐẢ",
+		"onyomi": "だ、だあす",
+		"nghiaHanViet": "đả kích, ẩu đả"
+	},
+	{
+		"sort": 19,
+		"kanji": "倒",
+		"hanViet": "ĐẢO",
+		"onyomi": "とう",
+		"nghiaHanViet": "đảo lộn, ngã"
+	},
+	{
+		"sort": 133,
+		"kanji": "感",
+		"hanViet": "CẢM",
+		"onyomi": "かん",
+		"nghiaHanViet": "cảm giác, cảm xúc, cảm tình"
+	},
+	{
+		"sort": 121,
+		"kanji": "忙",
+		"hanViet": "MANG",
+		"onyomi": "ぼう、もう",
+		"nghiaHanViet": "đa mang"
+	},
+	{
+		"sort": 196,
+		"kanji": "消",
+		"hanViet": "TIÊU",
+		"onyomi": "しょう",
+		"nghiaHanViet": "tiêu diệt, tiêu hao"
+	},
+	{
+		"sort": 88,
+		"kanji": "官",
+		"hanViet": "QUAN",
+		"onyomi": "かん",
+		"nghiaHanViet": "quan lại"
+	},
+	{
+		"sort": 117,
+		"kanji": "得",
+		"hanViet": "ĐẮC",
+		"onyomi": "とく",
+		"nghiaHanViet": "đắc lợi"
+	},
+	{
+		"sort": 77,
+		"kanji": "夢",
+		"hanViet": "MỘNG",
+		"onyomi": "む、ぼう",
+		"nghiaHanViet": "mơ, chiêm bao"
+	},
+  {
+		"sort": 78,
+		"kanji": "夫",
+		"hanViet": "PHU",
+		"onyomi": "ふ、ふう、ぶ",
+		"nghiaHanViet": "trượng phu"
+	},
+	{
+		"sort": 105,
+		"kanji": "常",
+		"hanViet": "THƯỜNG",
+		"onyomi": "じょう",
+		"nghiaHanViet": "bình thường, thông thường"
+	},
+	{
+		"sort": 241,
+		"kanji": "等",
+		"hanViet": "ĐẲNG",
+		"onyomi": "とう",
+		"nghiaHanViet": "bình đẳng, đẳng cấp"
+	},
+	{
+		"sort": 96,
+		"kanji": "富",
+		"hanViet": "PHÚ",
+		"onyomi": "ふ、ふう",
+		"nghiaHanViet": "giàu, phú hộ, phong phú"
+	},
+  {
+		"sort": 97,
+		"kanji": "寝",
+		"hanViet": "TẨM",
+		"onyomi": "しん",
+		"nghiaHanViet": "ngủ"
+	},
+	{
+		"sort": 84,
+		"kanji": "存",
+		"hanViet": "TỒN",
+		"onyomi": "そん、ぞん",
+		"nghiaHanViet": "tồn tại, bảo tồn"
+	},
+	{
+		"sort": 12,
+		"kanji": "似",
+		"hanViet": "TỰ",
+		"onyomi": "じ",
+		"nghiaHanViet": "tương tự, giống như"
+	},
+	{
+		"sort": 127,
+		"kanji": "恥",
+		"hanViet": "SỈ",
+		"onyomi": "ち",
+		"nghiaHanViet": "sỉ nhục, xấu hổ"
+	},
+	{
+		"sort": 98,
+		"kanji": "察",
+		"hanViet": "SÁT",
+		"onyomi": "さつ",
+		"nghiaHanViet": "quan sát, giám sát, cảnh sát"
+	},
+	{
+		"sort": 169,
+		"kanji": "未",
+		"hanViet": "VỊ,MÙI",
+		"onyomi": "み、び",
+		"nghiaHanViet": "chưa, vị thành niên"
+	},
+	{
+		"sort": 244,
+		"kanji": "精",
+		"hanViet": "TINH",
+		"onyomi": "せい、しょう、しやう",
+		"nghiaHanViet": "tinh thần, sinh lực"
+	},
+	{
+		"sort": 206,
+		"kanji": "熱",
+		"hanViet": "NHIỆT",
+		"onyomi": "ねつ",
+		"nghiaHanViet": "nhiệt độ, nhiệt tình"
+	},
+	{
+		"sort": 181,
+		"kanji": "次",
+		"hanViet": "THỨ",
+		"onyomi": "じ、し",
+		"nghiaHanViet": "thứ bậc, lần lượt"
+	},
+	{
+		"sort": 70,
+		"kanji": "因",
+		"hanViet": "NHÂN",
+		"onyomi": "いん",
+		"nghiaHanViet": "nguyên nhân"
+	},
+	{
+		"sort": 90,
+		"kanji": "実",
+		"hanViet": "THỰC",
+		"onyomi": "じつ、しつ",
+		"nghiaHanViet": "sự thực, chân thực"
+	},
+	{
+		"sort": 93,
+		"kanji": "容",
+		"hanViet": "DUNG,DONG",
+		"onyomi": "よう",
+		"nghiaHanViet": "bao dung, chịu đựng, chứa đựng"
+	},
+  {
+		"sort": 94,
+		"kanji": "宿",
+		"hanViet": "TÚC,TÚ",
+		"onyomi": "しゅく",
+		"nghiaHanViet": "tá túc, kí túc xá"
+	},
+	{
+		"sort": 73,
+		"kanji": "在",
+		"hanViet": "TẠI",
+		"onyomi": "ざい",
+		"nghiaHanViet": "tồn tại, thực tại"
+	},
+  {
+		"sort": 74,
+		"kanji": "報",
+		"hanViet": "BÁO",
+		"onyomi": "ほう",
+		"nghiaHanViet": "báo cáo, báo thù, báo đáp"
+  },
+  {
+		"sort": 75,
+		"kanji": "増",
+		"hanViet": "TĂNG",
+		"onyomi": "ぞう",
+		"nghiaHanViet": "tăng gia, tăng tốc"
+	},
+	{
+		"sort": 263,
+		"kanji": "船",
+		"hanViet": "THUYỀN",
+		"onyomi": "せん",
+		"nghiaHanViet": "cái thuyền"
+	},
+	{
+		"sort": 195,
+		"kanji": "浮",
+		"hanViet": "PHÙ",
+		"onyomi": "ふ",
+		"nghiaHanViet": "nổi, phù du"
+	},
+	{
+		"sort": 76,
+		"kanji": "変",
+		"hanViet": "BIẾN",
+		"onyomi": "ヘん",
+		"nghiaHanViet": "biến đổi, biến thiên"
+	},
+	{
+		"sort": 226,
+		"kanji": "石",
+		"hanViet": "THẠCH",
+		"onyomi": "せき、しゃく、こく",
+		"nghiaHanViet": "đá, bảo thạch"
+	},
+	{
+		"sort": 119,
+		"kanji": "必",
+		"hanViet": "TẤT",
+		"onyomi": "ひつ",
+		"nghiaHanViet": "tất nhiên, tất yếu"
+	},
+	{
+		"sort": 29,
+		"kanji": "具",
+		"hanViet": "CỤ",
+		"onyomi": "ぐ",
+		"nghiaHanViet": "công cụ, dụng cụ"
+	},
+  {
+		"sort": 30,
+		"kanji": "内",
+		"hanViet": "NỘI, NẠP",
+		"onyomi": "ない、だい",
+		"nghiaHanViet": "bên trong, ở giữa"
+	},
+	{
+		"sort": 274,
+		"kanji": "覚",
+		"hanViet": "GIÁC",
+		"onyomi": "かく",
+		"nghiaHanViet": "cảm giác, giác ngộ"
+	},
+	{
+		"sort": 205,
+		"kanji": "煙",
+		"hanViet": "YÊN",
+		"onyomi": "えん",
+		"nghiaHanViet": "khói"
+	},
+	{
+		"sort": 61,
+		"kanji": "否",
+		"hanViet": "PHỦ",
+		"onyomi": "ひ",
+		"nghiaHanViet": "phủ định, phủ quyết"
+	},
+  {
+		"sort": 62,
+		"kanji": "吸",
+		"hanViet": "HẤP",
+		"onyomi": "きゅう",
+		"nghiaHanViet": "hấp thụ, hút vào"
+	},
+	{
+		"sort": 183,
+		"kanji": "歯",
+		"hanViet": "XỈ",
+		"onyomi": "し",
+		"nghiaHanViet": "răng"
+	},
+  {
+		"sort": 85,
+		"kanji": "宅",
+		"hanViet": "TRẠCH",
+		"onyomi": "たく",
+		"nghiaHanViet": "nhà ở"
+	},
+	{
+		"sort": 86,
+		"kanji": "守",
+		"hanViet": "THỦ",
+		"onyomi": "しゅ、す",
+		"nghiaHanViet": "cố thủ, bảo thủ"
+	},
+	{
+		"sort": 177,
+		"kanji": "権",
+		"hanViet": "QUYỀN",
+		"onyomi": "けん、ごん",
+		"nghiaHanViet": "chính quyền, quyền lợi"
+	},
+	{
+		"sort": 214,
+		"kanji": "申",
+		"hanViet": "THÂN",
+		"onyomi": "しん",
+		"nghiaHanViet": "trình bày, nói"
+	},
+	{
+		"sort": 165,
+		"kanji": "曲",
+		"hanViet": "KHÚC",
+		"onyomi": "きょく",
+		"nghiaHanViet": "ca khúc"
+	},
+	{
+		"sort": 266,
+		"kanji": "苦",
+		"hanViet": "KHỔ",
+		"onyomi": "く",
+		"nghiaHanViet": "khổ cực"
+	},
+	{
+		"sort": 194,
+		"kanji": "流",
+		"hanViet": "LƯU",
+		"onyomi": "りゅう、る",
+		"nghiaHanViet": "lưu lượng, hạ lưu, lưu hành"
+	},
+	{
+		"sort": 45,
+		"kanji": "労",
+		"hanViet": "LAO,LẠO",
+		"onyomi": "ろう",
+		"nghiaHanViet": "lao động, lao lực, công lao"
+	},
+	{
+		"sort": 107,
+		"kanji": "幸",
+		"hanViet": "HẠNH",
+		"onyomi": "こう",
+		"nghiaHanViet": "hạnh phúc"
+	},
+	{
+		"sort": 124,
+		"kanji": "怖",
+		"hanViet": "BỐ",
+		"onyomi": "ふ、ほ",
+		"nghiaHanViet": "khủng bố"
+	},
+	{
+		"sort": 191,
+		"kanji": "法",
+		"hanViet": "PHÁP",
+		"onyomi": "ほう、はっ、ほっ、ふらん",
+		"nghiaHanViet": "pháp luật, phương pháp"
+	},
+	{
+		"sort": 122,
+		"kanji": "念",
+		"hanViet": "NIỆM",
+		"onyomi": "ねん",
+		"nghiaHanViet": "ý niệm, tưởng niệm"
+	},
+	{
+		"sort": 20,
+		"kanji": "候",
+		"hanViet": "HẬU",
+		"onyomi": "こう",
+		"nghiaHanViet": "mùa, khí hậu, thời hậu"
+	},
+  {
+		"sort": 101,
+		"kanji": "居",
+		"hanViet": "CƯ",
+		"onyomi": "きょ、こ",
+		"nghiaHanViet": "cư trú"
+	},
+	{
+		"sort": 100,
+		"kanji": "局",
+		"hanViet": "CỤC",
+		"onyomi": "きょく",
+		"nghiaHanViet": "cục diện"
+	},
+  {
+		"sort": 102,
+		"kanji": "差",
+		"hanViet": "SAI",
+		"onyomi": "さ",
+		"nghiaHanViet": "sai khác, sai biệt"
+	},
+	{
+		"sort": 103,
+		"kanji": "師",
+		"hanViet": "SƯ",
+		"onyomi": "し",
+		"nghiaHanViet": "giáo sư"
+	},
+  {
+		"sort": 92,
+		"kanji": "害",
+		"hanViet": "HẠI",
+		"onyomi": "がい",
+		"nghiaHanViet": "có hại, độc hại, lợi hại"
+	},
+  {
+		"sort": 104,
+		"kanji": "席",
+		"hanViet": "TỊCH",
+		"onyomi": "せき",
+		"nghiaHanViet": "chủ tịch"
+	},
+	{
+		"sort": 240,
+		"kanji": "笑",
+		"hanViet": "TIẾU",
+		"onyomi": "しょう",
+		"nghiaHanViet": "cười, vui cười"
+	},
+	{
+		"sort": 60,
+		"kanji": "君",
+		"hanViet": "QUÂN",
+		"onyomi": "くん",
+		"nghiaHanViet": "chỉ người con trai"
+	},
+	{
+		"sort": 249,
+		"kanji": "絵",
+		"hanViet": "HỘI",
+		"onyomi": "かい、え",
+		"nghiaHanViet": "hội họa"
+	},
+	{
+		"sort": 303,
+		"kanji": "退",
+		"hanViet": "THOÁI,THỐI",
+		"onyomi": "たい",
+		"nghiaHanViet": "thoái lui"
+	},
+	{
+		"sort": 359,
+		"kanji": "鼻",
+		"hanViet": "TỴ",
+		"onyomi": "び",
+		"nghiaHanViet": "cái mũi"
+	},
+	{
+		"sort": 246,
+		"kanji": "組",
+		"hanViet": "TỔ",
+		"onyomi": "そ",
+		"nghiaHanViet": "tổ hợp, tổ chức"
+	},
+	{
+		"sort": 89,
+		"kanji": "定",
+		"hanViet": "ĐỊNH",
+		"onyomi": "てい、じょう",
+		"nghiaHanViet": "quyết định, định mệnh"
+	},
+	{
+		"sort": 256,
+		"kanji": "老",
+		"hanViet": "LÃO",
+		"onyomi": "ろう",
+		"nghiaHanViet": "già, lão luyện"
+	},
+	{
+		"sort": 155,
+		"kanji": "散",
+		"hanViet": "TÁN",
+		"onyomi": "さん",
+		"nghiaHanViet": "tan, giãn ra"
+	},
+	{
+		"sort": 221,
+		"kanji": "皆",
+		"hanViet": "GIAI",
+		"onyomi": "かい",
+		"nghiaHanViet": "tất cả"
+	},
+	{
+		"sort": 250,
+		"kanji": "絶",
+		"hanViet": "TUYỆT",
+		"onyomi": "ゼつ",
+		"nghiaHanViet": "đoạn tuyệt"
+	},
+	{
+		"sort": 224,
+		"kanji": "相",
+		"hanViet": "TƯƠNG,TƯỚNG",
+		"onyomi": "そう、しょう",
+		"nghiaHanViet": "tương tự, tương đương; thủ tướng"
+	},
+	{
+		"sort": 150,
+		"kanji": "探",
+		"hanViet": "THÁM",
+		"onyomi": "たん",
+		"nghiaHanViet": "thám hiểm"
+	},
+	{
+		"sort": 187,
+		"kanji": "殺",
+		"hanViet": "SÁT",
+		"onyomi": "さつ、さい、せつ",
+		"nghiaHanViet": "sát hại, sát nhân"
+	},
+	{
+		"sort": 272,
+		"kanji": "要",
+		"hanViet": "YẾU",
+		"onyomi": "よう",
+		"nghiaHanViet": "yêu cầu; chủ yếu"
+	},
+	{
+		"sort": 225,
+		"kanji": "眠",
+		"hanViet": "MIÊN",
+		"onyomi": "みん",
+		"nghiaHanViet": "thôi miên"
+	},
+	{
+		"sort": 219,
+		"kanji": "痛",
+		"hanViet": "THỐNG",
+		"onyomi": "つう",
+		"nghiaHanViet": "thống khổ"
+	},
+	{
+		"sort": 247,
+		"kanji": "経",
+		"hanViet": "KINH",
+		"onyomi": "けい、きょう",
+		"nghiaHanViet": "kinh tế, kinh độ"
+	},
+	{
+		"sort": 207,
+		"kanji": "犯",
+		"hanViet": "PHẠM",
+		"onyomi": "はん、ぼん",
+		"nghiaHanViet": "phạm nhân"
+	},
+	{
+		"sort": 173,
+		"kanji": "果",
+		"hanViet": "QUẢ",
+		"onyomi": "か",
+		"nghiaHanViet": "hoa quả, thành quả, kết quả"
+	},
+	{
+		"sort": 142,
+		"kanji": "折",
+		"hanViet": "TRIẾT",
+		"onyomi": "せつ",
+		"nghiaHanViet": "bẻ gãy, chiết suất"
+	},
+	{
+		"sort": 259,
+		"kanji": "背",
+		"hanViet": "BỐI",
+		"onyomi": "はい",
+		"nghiaHanViet": "bối cảnh"
+	},
+	{
+		"sort": 147,
+		"kanji": "指",
+		"hanViet": "CHỈ",
+		"onyomi": "し",
+		"nghiaHanViet": "chỉ định, chỉ số"
+	},
+	{
+		"sort": 267,
+		"kanji": "草",
+		"hanViet": "THẢO",
+		"onyomi": "そう",
+		"nghiaHanViet": "thảo mộc"
+	},
+	{
+		"sort": 174,
+		"kanji": "格",
+		"hanViet": "CÁCH",
+		"onyomi": "かく、こう、きゃく、ごう",
+		"nghiaHanViet": "tư cách, cách thức"
+	},
+	{
+		"sort": 144,
+		"kanji": "抱",
+		"hanViet": "BÃO",
+		"onyomi": "ほう",
+		"nghiaHanViet": "ôm, hoài bão"
+	},
+	{
+		"sort": 140,
+		"kanji": "払",
+		"hanViet": "PHẤT",
+		"onyomi": "ふつ、ひつ、ほつ",
+		"nghiaHanViet": "trả tiền"
+	},
+	{
+		"sort": 232,
+		"kanji": "神",
+		"hanViet": "THẦN",
+		"onyomi": "しん、じん",
+		"nghiaHanViet": "thần thánh, thần dược"
+	},
+	{
+		"sort": 52,
+		"kanji": "原",
+		"hanViet": "NGUYÊN",
+		"onyomi": "げん",
+		"nghiaHanViet": "thảo nguyên, nguyên tử, nguyên tắc"
+	},
+	{
+		"sort": 296,
+		"kanji": "路",
+		"hanViet": "LỘ",
+		"onyomi": "ろ、る",
+		"nghiaHanViet": "đường đi lại"
+	},
+	{
+		"sort": 51,
+		"kanji": "危",
+		"hanViet": "NGUY",
+		"onyomi": "き",
+		"nghiaHanViet": "nguy hiểm, nguy cơ"
+	},
+	{
+		"sort": 230,
+		"kanji": "礼",
+		"hanViet": "LỄ",
+		"onyomi": "れい、らい",
+		"nghiaHanViet": "lễ nghi, lễ nghĩa"
+	},
+	{
+		"sort": 309,
+		"kanji": "遊",
+		"hanViet": "DU",
+		"onyomi": "ゆう、ゆ",
+		"nghiaHanViet": "du lịch"
+	},
+	{
+		"sort": 156,
+		"kanji": "数",
+		"hanViet": "SỐ",
+		"onyomi": "すう、す、さく、そく、しゅ",
+		"nghiaHanViet": "số lượng"
+	},
+	{
+		"sort": 335,
+		"kanji": "願",
+		"hanViet": "NGUYỆN",
+		"onyomi": "がん",
+		"nghiaHanViet": "tự nguyện, tình nguyện"
+	},
+	{
+		"sort": 304,
+		"kanji": "逃",
+		"hanViet": "ĐÀO",
+		"onyomi": "とう",
+		"nghiaHanViet": "đào tẩu, trốn"
+	},
+	{
+		"sort": 148,
+		"kanji": "捕",
+		"hanViet": "BỘ,BỔ",
+		"onyomi": "ほ",
+		"nghiaHanViet": "bắt(kẻ có tội)"
+	},
+	{
+		"sort": 113,
+		"kanji": "形",
+		"hanViet": "HÌNH",
+		"onyomi": "けい、ぎょう",
+		"nghiaHanViet": "hình thức, hình thể"
+	},
+	{
+		"sort": 237,
+		"kanji": "積",
+		"hanViet": "TÍCH",
+		"onyomi": "せき",
+		"nghiaHanViet": "tích tụ, súc tích, tích phân"
+	},
+	{
+		"sort": 143,
+		"kanji": "抜",
+		"hanViet": "BẠT",
+		"onyomi": "ばつ、はつ、はい",
+		"nghiaHanViet": "rút ra"
+	},
+	{
+		"sort": 316,
+		"kanji": "配",
+		"hanViet": "PHỐI",
+		"onyomi": "はい",
+		"nghiaHanViet": "phân phối, chi phối, phối ngẫu"
+	},
+	{
+		"sort": 118,
+		"kanji": "御",
+		"hanViet": "NGỰ",
+		"onyomi": "ぎょ、ご",
+		"nghiaHanViet": "thống trị"
+	},
+	{
+		"sort": 353,
+		"kanji": "線",
+		"hanViet": "TUYẾN",
+		"onyomi": "せん",
+		"nghiaHanViet": "dây, tiền tuyến, điện tuyến, vô tuyến"
+	},
+	{
+		"sort": 333,
+		"kanji": "頂",
+		"hanViet": "ĐỈNH,ĐINH",
+		"onyomi": "ちょう",
+		"nghiaHanViet": "đỉnh núi, chóp"
+	},
+	{
+		"sort": 163,
+		"kanji": "晴",
+		"hanViet": "TÌNH",
+		"onyomi": "せい",
+		"nghiaHanViet": "trong xanh, tạnh"
+	},
+	{
+		"sort": 282,
+		"kanji": "調",
+		"hanViet": "ĐIỀU",
+		"onyomi": "ちょう",
+		"nghiaHanViet": "điều tra, điều hòa; giai điệu"
+	},
+	{
+		"sort": 317,
+		"kanji": "酒",
+		"hanViet": "TỬU",
+		"onyomi": "しゅ",
+		"nghiaHanViet": "rượu"
+	},
+	{
+		"sort": 116,
+		"kanji": "徒",
+		"hanViet": "ĐỒ",
+		"onyomi": "と",
+		"nghiaHanViet": "đi bộ, học trò, đồ đệ"
+	},
+	{
+		"sort": 314,
+		"kanji": "選",
+		"hanViet": "TUYỂN",
+		"onyomi": "せん",
+		"nghiaHanViet": "tuyển chọn"
+	},
+	{
+		"sort": 307,
+		"kanji": "連",
+		"hanViet": "LIÊN",
+		"onyomi": "れん",
+		"nghiaHanViet": "liên tục, liên lạc"
+	},
+	{
+		"sort": 290,
+		"kanji": "貧",
+		"hanViet": "BẦN",
+		"onyomi": "ひん、びん",
+		"nghiaHanViet": "bần cùng, nghèo"
+	},
+	{
+		"sort": 168,
+		"kanji": "期",
+		"hanViet": "KỲ",
+		"onyomi": "き、ご",
+		"nghiaHanViet": "thời kì, kì hạn"
+	},
+	{
+		"sort": 201,
+		"kanji": "満",
+		"hanViet": "MÃN",
+		"onyomi": "まん、ばん",
+		"nghiaHanViet": "thỏa mãn, bất mãn, mãn nguyện"
+	},
+	{
+		"sort": 288,
+		"kanji": "負",
+		"hanViet": "PHỤ",
+		"onyomi": "ふ",
+		"nghiaHanViet": "phụ trách"
+	},
+	{
+		"sort": 227,
+		"kanji": "破",
+		"hanViet": "PHÁ",
+		"onyomi": "は",
+		"nghiaHanViet": "phá hoại, tàn phá"
+	},
+	{
+		"sort": 175,
+		"kanji": "構",
+		"hanViet": "CẤU",
+		"onyomi": "こう",
+		"nghiaHanViet": "cấu tạo, cấu thành"
+	},
+	{
+		"sort": 190,
+		"kanji": "治",
+		"hanViet": "TRỊ",
+		"onyomi": "じ、ち",
+		"nghiaHanViet": "cai trị, trị bệnh"
+	},
+	{
+		"sort": 355,
+		"kanji": "輪",
+		"hanViet": "LUÂN",
+		"onyomi": "りん",
+		"nghiaHanViet": "bánh xe, luân hồi"
+	},
+	{
+		"sort": 235,
+		"kanji": "程",
+		"hanViet": "TRÌNH",
+		"onyomi": "てい",
+		"nghiaHanViet": "trình độ, lộ trình, công trình"
+	},
+	{
+		"sort": 348,
+		"kanji": "橋",
+		"hanViet": "KIỀU",
+		"onyomi": "きょう",
+		"nghiaHanViet": "cây cầu"
+	},
+	{
+		"sort": 295,
+		"kanji": "越",
+		"hanViet": "VIỆT, HOẠT",
+		"onyomi": "えつ、おつ",
+		"nghiaHanViet": "đi qua, vượt lên"
+	},
+	{
+		"sort": 345,
+		"kanji": "績",
+		"hanViet": "TÍCH",
+		"onyomi": "せき",
+		"nghiaHanViet": "thành tích"
+	},
+	{
+		"sort": 271,
+		"kanji": "表",
+		"hanViet": "BIỂU",
+		"onyomi": "ひょう",
+		"nghiaHanViet": "biểu hiện, biểu diễn"
+	},
+	{
+		"sort": 95,
+		"kanji": "寄",
+		"hanViet": "KỲ",
+		"onyomi": "き",
+		"nghiaHanViet": "kí gửi, kí sinh"
+	},
+	{
+		"sort": 220,
+		"kanji": "登",
+		"hanViet": "ĐĂNG",
+		"onyomi": "とう、と、どう、しょう、ちょう",
+		"nghiaHanViet": "trèo lên, thăng tiến"
+	},
+	{
+		"sort": 268,
+		"kanji": "落",
+		"hanViet": "LẠC",
+		"onyomi": "らく",
+		"nghiaHanViet": "rơi, trụy lạc"
+	},
+	{
+		"sort": 151,
+		"kanji": "支",
+		"hanViet": "CHI",
+		"onyomi": "し",
+		"nghiaHanViet": "chi nhánh"
+	},
+	{
+		"sort": 341,
+		"kanji": "仏",
+		"hanViet": "PHẬT",
+		"onyomi": "ぶつ、ふつ",
+		"nghiaHanViet": "phật giáo"
+	},
+	{
+		"sort": 338,
+		"kanji": "馬",
+		"hanViet": "MÃ",
+		"onyomi": "ば",
+		"nghiaHanViet": "con ngựa"
+	},
+	{
+		"sort": 292,
+		"kanji": "費",
+		"hanViet": "PHÍ",
+		"onyomi": "ひ",
+		"nghiaHanViet": "học phí, lộ phí, chi phí"
+	},
+	{
+		"sort": 275,
+		"kanji": "観",
+		"hanViet": "QUAN",
+		"onyomi": "かん",
+		"nghiaHanViet": "quan sát, tham quan"
+	},
+	{
+		"sort": 331,
+		"kanji": "面",
+		"hanViet": "DIỆN",
+		"onyomi": "めん、ベん",
+		"nghiaHanViet": "phản diện, chính diện"
+	},
+	{
+		"sort": 302,
+		"kanji": "追",
+		"hanViet": "TRUY",
+		"onyomi": "つい",
+		"nghiaHanViet": "truy lùng, truy nã, truy cầu"
+	},
+	{
+		"sort": 310,
+		"kanji": "過",
+		"hanViet": "QUÁ",
+		"onyomi": "か",
+		"nghiaHanViet": "thông qua; quá khứ, quá độ"
+	},
+	{
+		"sort": 325,
+		"kanji": "際",
+		"hanViet": "TẾ",
+		"onyomi": "さい",
+		"nghiaHanViet": "quốc tế"
+	},
+	{
+		"sort": 291,
+		"kanji": "責",
+		"hanViet": "TRÁCH",
+		"onyomi": "せき",
+		"nghiaHanViet": "khiển trách, trách nhiệm"
+	},
+	{
+		"sort": 283,
+		"kanji": "談",
+		"hanViet": "ĐÀM",
+		"onyomi": "だん",
+		"nghiaHanViet": "hội đàm, đàm thoại"
+	},
+	{
+		"sort": 253,
+		"kanji": "罪",
+		"hanViet": "TỘI",
+		"onyomi": "ざい",
+		"nghiaHanViet": "tội phạm, tội ác"
+	},
+	{
+		"sort": 216,
+		"kanji": "番",
+		"hanViet": "PHIÊN",
+		"onyomi": "ばん",
+		"nghiaHanViet": "thứ tự, canh phiên"
+	},
+	{
+		"sort": 276,
+		"kanji": "解",
+		"hanViet": "GIẢI",
+		"onyomi": "かい、げ",
+		"nghiaHanViet": "giải quyết, giải thích"
+	},
+	{
+		"sort": 301,
+		"kanji": "迷",
+		"hanViet": "MÊ",
+		"onyomi": "めい",
+		"nghiaHanViet": "mê hoặc, mê đắm"
+	},
+	{
+		"sort": 197,
+		"kanji": "深",
+		"hanViet": "THÂM",
+		"onyomi": "しん",
+		"nghiaHanViet": "thâm sâu, thâm hậu"
+	},
+	{
+		"sort": 164,
+		"kanji": "暮",
+		"hanViet": "MỘ",
+		"onyomi": "ぼ",
+		"nghiaHanViet": "chiều tối"
+	},
+	{
+		"sort": 358,
+		"kanji": "領",
+		"hanViet": "LÃNH,LĨNH",
+		"onyomi": "りょう",
+		"nghiaHanViet": "thống lĩnh, lãnh thổ, lĩnh vực"
+	},
+	{
+		"sort": 278,
+		"kanji": "訪",
+		"hanViet": "PHỎNG,PHÓNG",
+		"onyomi": "ほう",
+		"nghiaHanViet": "phóng sự; phỏng vấn"
+	},
+	{
+		"sort": 218,
+		"kanji": "疲",
+		"hanViet": "BÍ",
+		"onyomi": "ひ",
+		"nghiaHanViet": "mỏi mệt"
+	},
+	{
+		"sort": 340,
+		"kanji": "鳴",
+		"hanViet": "MINH",
+		"onyomi": "めい",
+		"nghiaHanViet": "hót(tiếng chim hót)"
+	},
+	{
+		"sort": 228,
+		"kanji": "確",
+		"hanViet": "XÁC",
+		"onyomi": "かく、こう",
+		"nghiaHanViet": "chính xác, xác lập, xác suất"
+	},
+	{
+		"sort": 347,
+		"kanji": "輸",
+		"hanViet": "THÂU",
+		"onyomi": "ゆ、しゅ",
+		"nghiaHanViet": "gửi, chuyên chở, nộp, đưa đồ"
+	},
+	{
+		"sort": 257,
+		"kanji": "職",
+		"hanViet": "CHỨC",
+		"onyomi": "しょく、そく",
+		"nghiaHanViet": "chức vụ, từ chức"
+	},
+	{
+		"sort": 145,
+		"kanji": "押",
+		"hanViet": "ÁP",
+		"onyomi": "おう",
+		"nghiaHanViet": "ấn"
+	},
+	{
+		"sort": 319,
+		"kanji": "関",
+		"hanViet": "QUAN",
+		"onyomi": "かん",
+		"nghiaHanViet": "hải quan, quan hệ"
+	},
+	{
+		"sort": 311,
+		"kanji": "達",
+		"hanViet": "ĐẠT",
+		"onyomi": "たつ、だ",
+		"nghiaHanViet": "đạt tới, điều đạt, thành đạt"
+	},
+	{
+		"sort": 109,
+		"kanji": "座",
+		"hanViet": "TỌA",
+		"onyomi": "ざ",
+		"nghiaHanViet": "chỗ ngồi, tọa độ"
+	},{
+		"sort": 135,
+		"kanji": "成",
+		"hanViet": "THÀNH",
+		"onyomi": "せい、じょう",
+		"nghiaHanViet": "thành tựu, hoàn thành, trở thành"
+	},
+	{
+		"sort": 136,
+		"kanji": "戦",
+		"hanViet": "CHIẾN",
+		"onyomi": "せん",
+		"nghiaHanViet": "chiến tranh, chiến đấu"
+	},
+  {
+		"sort": 137,
+		"kanji": "戻",
+		"hanViet": "LỆ",
+		"onyomi": "れい",
+		"nghiaHanViet": "quay lại"
+	},
+  {
+		"sort": 138,
+		"kanji": "才",
+		"hanViet": "TÀI",
+		"onyomi": "さい",
+		"nghiaHanViet": "tài năng"
+	},
+	{
+		"sort": 289,
+		"kanji": "財",
+		"hanViet": "TÀI",
+		"onyomi": "ざい、さい、ぞく",
+		"nghiaHanViet": "tiền tài, tài sản"
+	},
+	{
+		"sort": 322,
+		"kanji": "除",
+		"hanViet": "TRỪ",
+		"onyomi": "じょ、じ",
+		"nghiaHanViet": "trừ khử, trừ bỏ"
+	},
+	{
+		"sort": 176,
+		"kanji": "様",
+		"hanViet": "DẠNG",
+		"onyomi": "よう、しょう",
+		"nghiaHanViet": "đa dạng, hình dạng"
+	},
+	{
+		"sort": 318,
+		"kanji": "閉",
+		"hanViet": "BẾ",
+		"onyomi": "ヘい",
+		"nghiaHanViet": "bế mạc, bế quan, đóng cửa"
+	},
+	{
+		"sort": 350,
+		"kanji": "器",
+		"hanViet": "KHÍ",
+		"onyomi": "き",
+		"nghiaHanViet": "khí cụ, cơ khí"
+	},
+	{
+		"sort": 180,
+		"kanji": "欠",
+		"hanViet": "KHIẾM",
+		"onyomi": "けつ、けん",
+		"nghiaHanViet": "khiếm khuyết"
+	},
+	{
+		"sort": 323,
+		"kanji": "険",
+		"hanViet": "HIỂM",
+		"onyomi": "けん",
+		"nghiaHanViet": "nguy hiểm, mạo hiểm, hiểm ác"
+	},
+	{
+		"sort": 159,
+		"kanji": "昔",
+		"hanViet": "TÍCH",
+		"onyomi": "せき、しゃく",
+		"nghiaHanViet": "ngày xưa"
+	},
+	{
+		"sort": 284,
+		"kanji": "論",
+		"hanViet": "LUẬN",
+		"onyomi": "ろん",
+		"nghiaHanViet": "lí luận, ngôn luận, thảo luận"
+	},
+	{
+		"sort": 260,
+		"kanji": "能",
+		"hanViet": "NĂNG",
+		"onyomi": "のう",
+		"nghiaHanViet": "năng lực, tài năng"
+	},
+	{
+		"sort": 326,
+		"kanji": "雑",
+		"hanViet": "TẠP",
+		"onyomi": "ざつ、ぞう",
+		"nghiaHanViet": "tạp chí, tạp kĩ"
+	},
+	{
+		"sort": 324,
+		"kanji": "陽",
+		"hanViet": "DƯƠNG",
+		"onyomi": "よう",
+		"nghiaHanViet": "thái dương"
+	},
+	{
+		"sort": 280,
+		"kanji": "認",
+		"hanViet": "NHẬN",
+		"onyomi": "にん",
+		"nghiaHanViet": "xác nhận, nhận thức"
+	},
+	{
+		"sort": 222,
+		"kanji": "盗",
+		"hanViet": "ĐẠO",
+		"onyomi": "とう",
+		"nghiaHanViet": "ăn trộm, đạo chích"
+	},
+	{
+		"sort": 123,
+		"kanji": "怒",
+		"hanViet": "NỘ",
+		"onyomi": "ど、ぬ",
+		"nghiaHanViet": "thịnh nộ"
+	},
+	{
+		"sort": 184,
+		"kanji": "歳",
+		"hanViet": "TUẾ",
+		"onyomi": "さい、せい",
+		"nghiaHanViet": "tuổi"
+	},
+	{
+		"sort": 217,
+		"kanji": "疑",
+		"hanViet": "NGHI",
+		"onyomi": "ぎ",
+		"nghiaHanViet": "nghi ngờ, nghi vấn"
+	},
+	{
+		"sort": 130,
+		"kanji": "情",
+		"hanViet": "TÌNH",
+		"onyomi": "じょう、せい",
+		"nghiaHanViet": "nhân tình, tâm lý"
+	},
+  {
+		"sort": 131,
+		"kanji": "想",
+		"hanViet": "TƯỞNG",
+		"onyomi": "そう、そ",
+		"nghiaHanViet": "tư tưởng, tưởng tượng"
+	},
+  {
+		"sort": 132,
+		"kanji": "愛",
+		"hanViet": "ÁI",
+		"onyomi": "あい",
+		"nghiaHanViet": "yêu, ái tình, ái mộ"
+	},
+	{
+		"sort": 299,
+		"kanji": "迎",
+		"hanViet": "NGHÊNH,NGHINH",
+		"onyomi": "げい",
+		"nghiaHanViet": "hoan nghênh"
+	},
+	{
+		"sort": 24,
+		"kanji": "偶",
+		"hanViet": "NGẪU",
+		"onyomi": "ぐう",
+		"nghiaHanViet": "ngẫu nhiên"
+	},
+	{
+		"sort": 79,
+		"kanji": "失",
+		"hanViet": "THẤT",
+		"onyomi": "しつ",
+		"nghiaHanViet": "thất nghiệp, thất bại"
+	},
+	{
+		"sort": 334,
+		"kanji": "頼",
+		"hanViet": "LẠI",
+		"onyomi": "らい",
+		"nghiaHanViet": "ỷ lại"
+	},
+	{
+		"sort": 294,
+		"kanji": "賛",
+		"hanViet": "TÁN",
+		"onyomi": "さん",
+		"nghiaHanViet": "tán đồng, tán thành"
+	},
+	{
+		"sort": 343,
+		"kanji": "競",
+		"hanViet": "CẠNH",
+		"onyomi": "きょう、けい",
+		"nghiaHanViet": "cạnh tranh"
+	},
+	{
+		"sort": 356,
+		"kanji": "歴",
+		"hanViet": "LỊCH",
+		"onyomi": "れき、れっき",
+		"nghiaHanViet": "lí lịch, lịch sử"
+	},
+	{
+		"sort": 279,
+		"kanji": "許",
+		"hanViet": "HỨA",
+		"onyomi": "きょ",
+		"nghiaHanViet": "cho phép, hứa khả"
+	},
+  {
+		"sort": 125,
+		"kanji": "性",
+		"hanViet": "TÍNH,TÁNH",
+		"onyomi": "せい、しょう",
+		"nghiaHanViet": "giới tính, tính dục, bản tính, tính chất"
+	},
+	{
+		"sort": 126,
+		"kanji": "恐",
+		"hanViet": "KHỦNG",
+		"onyomi": "きょう",
+		"nghiaHanViet": "khủng bố, khủng hoảng"
+	},
+	{
+		"sort": 236,
+		"kanji": "種",
+		"hanViet": "CHỦNG",
+		"onyomi": "しゅ",
+		"nghiaHanViet": "chủng loại, chủng tộc"
+	},
+	{
+		"sort": 82,
+		"kanji": "婚",
+		"hanViet": "HÔN",
+		"onyomi": "こん",
+		"nghiaHanViet": "kết hôn, hôn nhân"
+	},
+	{
+		"sort": 286,
+		"kanji": "警",
+		"hanViet": "CẢNH",
+		"onyomi": "けい",
+		"nghiaHanViet": "cảnh báo, cảnh sát, cảnh vệz"
+	},
+	{
+		"sort": 39,
+		"kanji": "制",
+		"hanViet": "CHẾ",
+		"onyomi": "せい",
+		"nghiaHanViet": "chế ngự, thể chế, chế độ"
+	},
+	{
+		"sort": 134,
+		"kanji": "慣",
+		"hanViet": "QUÁN",
+		"onyomi": "かん",
+		"nghiaHanViet": "tập quán"
+	},
+	{
+		"sort": 337,
+		"kanji": "飛",
+		"hanViet": "PHI",
+		"onyomi": "ひ",
+		"nghiaHanViet": "bay, phi công, phi hành"
+	},
+	{
+		"sort": 258,
+		"kanji": "育",
+		"hanViet": "DỤC",
+		"onyomi": "いく",
+		"nghiaHanViet": "giáo dục, dưỡng dục"
+	},
+	{
+		"sort": 270,
+		"kanji": "術",
+		"hanViet": "THUẬT",
+		"onyomi": "じゅつ",
+		"nghiaHanViet": "kĩ thuật, nghệ thuật"
+	},
+	{
+		"sort": 223,
+		"kanji": "直",
+		"hanViet": "TRỰC",
+		"onyomi": "ちょく、じき、じか",
+		"nghiaHanViet": "trực tiếp, chính trực"
+	},
+	{
+		"sort": 342,
+		"kanji": "央",
+		"hanViet": "ƯƠNG",
+		"onyomi": "おう",
+		"nghiaHanViet": "trung ương"
+	},
+	{
+		"sort": 59,
+		"kanji": "向",
+		"hanViet": "HƯỚNG",
+		"onyomi": "こう",
+		"nghiaHanViet": "phương hướng"
+	},
+	{
+		"sort": 312,
+		"kanji": "違",
+		"hanViet": "VI",
+		"onyomi": "い",
+		"nghiaHanViet": "vi phạm"
+	},
+	{
+		"sort": 212,
+		"kanji": "球",
+		"hanViet": "CẦU",
+		"onyomi": "きゅう",
+		"nghiaHanViet": "quả cầu, địa cầu"
+	},
+	{
+		"sort": 332,
+		"kanji": "靴",
+		"hanViet": "NGOA",
+		"onyomi": "か",
+		"nghiaHanViet": "giầy"
+	},
+	{
+		"sort": 13,
+		"kanji": "位",
+		"hanViet": "VỊ",
+		"onyomi": "い",
+		"nghiaHanViet": "vị trí, tước vị, đơn vị"
+	},
+	{
+		"sort": 277,
+		"kanji": "記",
+		"hanViet": "KÝ",
+		"onyomi": "き",
+		"nghiaHanViet": "thư kí, kí sự, kí ức"
+	},
+	{
+		"sort": 320,
+		"kanji": "降",
+		"hanViet": "GIÁNG",
+		"onyomi": "こう、ご",
+		"nghiaHanViet": "rơi, xuống"
+	},
+	{
+		"sort": 198,
+		"kanji": "済",
+		"hanViet": "TẾ",
+		"onyomi": "さい、せい",
+		"nghiaHanViet": "kinh tế, cứu tế"
+	},
+	{
+		"sort": 211,
+		"kanji": "現",
+		"hanViet": "HIỆN",
+		"onyomi": "げん",
+		"nghiaHanViet": "xuất hiện, hiện tại, hiện tượng"
+	},
+	{
+		"sort": 49,
+		"kanji": "化",
+		"hanViet": "HÓA",
+		"onyomi": "か、け",
+		"nghiaHanViet": "biến hóa"
+	},
+	{
+		"sort": 158,
+		"kanji": "易",
+		"hanViet": "DỊ,DỊCH",
+		"onyomi": "えき、い",
+		"nghiaHanViet": "dễ, dịch chuyển"
+	},
+	{
+		"sort": 161,
+		"kanji": "晩",
+		"hanViet": "VÃN",
+		"onyomi": "ばん",
+		"nghiaHanViet": "buổi tối"
+	},
+	{
+		"sort": 328,
+		"kanji": "雪",
+		"hanViet": "TUYẾT",
+		"onyomi": "せつ",
+		"nghiaHanViet": "tuyết"
+	},
+	{
+		"sort": 229,
+		"kanji": "示",
+		"hanViet": "THỊ",
+		"onyomi": "じ、し",
+		"nghiaHanViet": "biểu thị"
+	},
+	{
+		"sort": 261,
+		"kanji": "腹",
+		"hanViet": "PHÚC,PHỤC",
+		"onyomi": "ふく",
+		"nghiaHanViet": "bụng"
+	},
+	{
+		"sort": 67,
+		"kanji": "和",
+		"hanViet": "HÒA",
+		"onyomi": "ワ、お、か",
+		"nghiaHanViet": "hòa bình, điều hòa"
+	},
+	{
+		"sort": 199,
+		"kanji": "渡",
+		"hanViet": "ĐỘ",
+		"onyomi": "と",
+		"nghiaHanViet": "đi qua, truyền tay"
+	},
+	{
+		"sort": 65,
+		"kanji": "呼",
+		"hanViet": "HÔ",
+		"onyomi": "こ",
+		"nghiaHanViet": "hô hấp, gọi"
+	},
+	{
+		"sort": 300,
+		"kanji": "返",
+		"hanViet": "PHẢN",
+		"onyomi": "ヘん",
+		"nghiaHanViet": "trả lại"
+	},
+	{
+		"sort": 188,
+		"kanji": "求",
+		"hanViet": "CẦU",
+		"onyomi": "きゅう、ぐ",
+		"nghiaHanViet": "yêu cầu"
+	},
+	{
+		"sort": 321,
+		"kanji": "限",
+		"hanViet": "HẠN",
+		"onyomi": "げん",
+		"nghiaHanViet": "giới hạn, hữu hạn"
+	},
+	{
+		"sort": 208,
+		"kanji": "状",
+		"hanViet": "TRẠNG",
+		"onyomi": "じょう",
+		"nghiaHanViet": "tình trạng, trạng thái"
+	},
+	{
+		"sort": 213,
+		"kanji": "由",
+		"hanViet": "DO",
+		"onyomi": "ゆ、ゆう、ゆい",
+		"nghiaHanViet": "tự do, lí do"
+	},
+	{
+		"sort": 202,
+		"kanji": "演",
+		"hanViet": "DIỄN",
+		"onyomi": "えん",
+		"nghiaHanViet": "diễn viên, biểu diễn"
+	},
+	{
+		"sort": 287,
+		"kanji": "議",
+		"hanViet": "NGHỊ",
+		"onyomi": "ぎ",
+		"nghiaHanViet": "nghị luận, nghị sự"
+	},
+	{
+		"sort": 293,
+		"kanji": "資",
+		"hanViet": "TƯ",
+		"onyomi": "し",
+		"nghiaHanViet": "tư bản, đầu tư, tư cách"
+	},
+	{
+		"sort": 269,
+		"kanji": "葉",
+		"hanViet": "DIỆP",
+		"onyomi": "よう、しょう",
+		"nghiaHanViet": "lá, lá tre"
+	},
+	{
+		"sort": 69,
+		"kanji": "喜",
+		"hanViet": "HỶ,HỈ",
+		"onyomi": "き",
+		"nghiaHanViet": "vui mừng"
+	},
+	{
+		"sort": 172,
+		"kanji": "杯",
+		"hanViet": "BÔI",
+		"onyomi": "はい",
+		"nghiaHanViet": "cái chén"
+	},
+	{
+		"sort": 313,
+		"kanji": "適",
+		"hanViet": "THÍCH",
+		"onyomi": "てき",
+		"nghiaHanViet": "thích hợp"
+	},
+	{
+		"sort": 298,
+		"kanji": "込",
+		"hanViet": "NHẬP",
+		"onyomi": "こ・む",
+		"nghiaHanViet": "đông đúc"
+	},
+	{
+		"sort": 149,
+		"kanji": "掛",
+		"hanViet": "QUẢI",
+		"onyomi": "かい、けい",
+		"nghiaHanViet": "treo"
+	},
+	{
+		"sort": 192,
+		"kanji": "泳",
+		"hanViet": "VỊNH",
+		"onyomi": "えい",
+		"nghiaHanViet": "bơi"
+	},
+	{
+		"sort": 66,
+		"kanji": "命",
+		"hanViet": "MỆNH",
+		"onyomi": "めい、みょう",
+		"nghiaHanViet": "vận mệnh, mệnh lệnh"
+	},
+	{
+		"sort": 264,
+		"kanji": "良",
+		"hanViet": "LƯƠNG",
+		"onyomi": "りょう",
+		"nghiaHanViet": "lương tâm, lương tri, tốt"
+	},
+	{
+		"sort": 160,
+		"kanji": "昨",
+		"hanViet": "TẠC",
+		"onyomi": "さく",
+		"nghiaHanViet": "qua, hôm qua"
+	},
+  {
+		"sort": 106,
+		"kanji": "平",
+		"hanViet": "BÌNH",
+		"onyomi": "へい、びょう、ひょう",
+		"nghiaHanViet": "hòa bình, bình đẳng, trung bình, bình thường"
+	},
+  {
+		"sort": 108,
+		"kanji": "幾",
+		"hanViet": "KỶ,KY",
+		"onyomi": "き",
+		"nghiaHanViet": "bao nhiêu, một chút, hơi hơi"
+	},
+  {
+		"sort": 111,
+		"kanji": "式",
+		"hanViet": "THỨC",
+		"onyomi": "しき",
+		"nghiaHanViet": "phương thức, buổi lễ, kiểu"
+	},
+	{
+		"sort": 110,
+		"kanji": "庭",
+		"hanViet": "ĐÌNH",
+		"onyomi": "てい",
+		"nghiaHanViet": "triều đình, gia đình"
+	},
+  {
+		"sort": 112,
+		"kanji": "当",
+		"hanViet": "ĐƯƠNG",
+		"onyomi": "とお",
+		"nghiaHanViet": "đương thời, tương đương"
+	},
+  {
+		"sort": 114,
+		"kanji": "役",
+		"hanViet": "DỊCH",
+		"onyomi": "やく、えき",
+		"nghiaHanViet": "nô dịch"
+	},
+  {
+		"sort": 115,
+		"kanji": "徒",
+		"hanViet": "ĐỒ",
+		"onyomi": "と",
+		"nghiaHanViet": "môn đồ, đồ đệ"
+	},
+  {
+		"sort": 141,
+		"kanji": "投",
+		"hanViet": "ĐẦU",
+		"onyomi": "とう",
+		"nghiaHanViet": "đầu tư, đầu cơ"
+	},
+  {
+		"sort": 152,
+		"kanji": "放",
+		"hanViet": "PHÓNG",
+		"onyomi": "ほう、-っぱな.し",
+		"nghiaHanViet": "giải phóng, phóng hỏa, phóng lao"
+	},
+  {
+    "sort": 154,
+    "kanji": "敗",
+    "hanViet": "BẠI",
+    "onyomi": "はい",
+    "nghiaHanViet": "thất bại"
+  },
+  {
+		"sort": 166,
+		"kanji": "更",
+		"hanViet": "CANH,CÁNH",
+		"onyomi": "こう",
+		"nghiaHanViet": "canh tân"
+	},
+  {
+		"sort": 167,
+		"kanji": "望",
+		"hanViet": "VỌNG",
+		"onyomi": "ぼう、もう",
+		"nghiaHanViet": "ước vọng, nguyện vọng, kì vọng"
+	},
+  {
+		"sort": 171,
+		"kanji": "束",
+		"hanViet": "THÚC",
+		"onyomi": "そく",
+		"nghiaHanViet": "bó (hoa), buộc"
+	},
+	{
+		"sort": 157,
+		"kanji": "断",
+		"hanViet": "ĐOẠN,ĐOÁN",
+		"onyomi": "だん",
+		"nghiaHanViet": "phán đoán, đoạn tuyệt"
+	},
+	{
+		"sort": 170,
+		"kanji": "末",
+		"hanViet": "MẠT",
+		"onyomi": "まつ、ばつ",
+		"nghiaHanViet": "kết thúc"
+	},
+  {
+    "sort": 186,
+    "kanji": "段",
+    "hanViet": "ĐOẠN",
+    "onyomi": "だん、たん",
+    "nghiaHanViet": "giai đoạn"
+  },
+  {
+    "sort": 193,
+    "kanji": "活",
+    "hanViet": "HOẠT",
+    "onyomi": "かつ",
+    "nghiaHanViet": "hoạt động, sinh hoạt"
+  },
+  {
+    "sort": 178,
+    "kanji": "横",
+    "hanViet": "HOÀNH",
+    "onyomi": "おう",
+    "nghiaHanViet": "tung hoành, hoành độ, hoành hành"
+  },
+  {
+    "sort": 182,
+    "kanji": "欲",
+    "hanViet": "DỤC",
+    "onyomi": "よく",
+    "nghiaHanViet": "dục vọng"
+  },
+  {
+    "sort": 179,
+    "kanji": "機",
+    "hanViet": "CƠ,KY",
+    "onyomi": "き",
+    "nghiaHanViet": "cơ khí, thời cơ, phi cơ"
+  },
+  {
+		"sort": 200,
+		"kanji": "港",
+		"hanViet": "CẢNG",
+		"onyomi": "こう",
+		"nghiaHanViet": "hải cảng, không cảng"
+	},
+  {
+		"sort": 204,
+		"kanji": "然",
+		"hanViet": "NHIÊN",
+		"onyomi": "ぜん、ねん",
+		"nghiaHanViet": "thế nhưng, vậy"
+	},
+  {
+		"sort": 203,
+		"kanji": "点",
+		"hanViet": "ĐIỂM",
+		"onyomi": "てん",
+		"nghiaHanViet": "điểm số, điểm hỏa"
+	},
+  {
+		"sort": 209,
+		"kanji": "猫",
+		"hanViet": "MIÊU",
+		"onyomi": "びょう",
+		"nghiaHanViet": "con mèo"
+	},
+	{
+		"sort": 210,
+		"kanji": "王",
+		"hanViet": "VƯƠNG",
+		"onyomi": "おう、ーのう",
+		"nghiaHanViet": "vua, vương giả"
+	},
+  {
+		"sort": 215,
+		"kanji": "留",
+		"hanViet": "LƯU",
+		"onyomi": "りゅう、る",
+		"nghiaHanViet": "lưu trữ, lưu học"
+	},
+  {
+		"sort": 231,
+		"kanji": "祖",
+		"hanViet": "TỔ",
+		"onyomi": "そ",
+		"nghiaHanViet": "tổ tiên"
+	},
+  {
+		"sort": 233,
+		"kanji": "福",
+		"hanViet": "PHÚC",
+		"onyomi": "ふく",
+		"nghiaHanViet": "hạnh phúc, phúc lợi"
+	},
+  {
+		"sort": 234,
+		"kanji": "科",
+		"hanViet": "KHOA",
+		"onyomi": "か",
+		"nghiaHanViet": "khoa học, chuyên khoa"
+	},
+  {
+		"sort": 239,
+		"kanji": "窓",
+		"hanViet": "SONG",
+		"onyomi": "そう、す",
+		"nghiaHanViet": "cửa sổ"
+	},
+	{
+		"sort": 238,
+		"kanji": "突",
+		"hanViet": "ĐỘT",
+		"onyomi": "とつ、か",
+		"nghiaHanViet": "đột phá, đột nhiên"
+	},
+  {
+		"sort": 243,
+		"kanji": "米",
+		"hanViet": "MỄ",
+		"onyomi": "べい、まい、、めえとる",
+		"nghiaHanViet": "gạo"
+	},
+	{
+		"sort": 242,
+		"kanji": "箱",
+		"hanViet": "TƯƠNG,SƯƠNG",
+		"onyomi": "そう",
+		"nghiaHanViet": "cái hộp"
+	},
+  {
+		"sort": 245,
+		"kanji": "約",
+		"hanViet": "ƯỚC",
+		"onyomi": "やく",
+		"nghiaHanViet": "lời hứa, ước tính"
+	},
+  {
+		"sort": 248,
+		"kanji": "給",
+		"hanViet": "CẤP",
+		"onyomi": "きゅう",
+		"nghiaHanViet": "cung cấp, cấp phát"
+	},
+  {
+		"sort": 251,
+		"kanji": "続",
+		"hanViet": "TỤC",
+		"onyomi": "ぞく、しょく、こう、きょう",
+		"nghiaHanViet": "tiếp tục"
+	},
+  {
+		"sort": 252,
+		"kanji": "緒",
+		"hanViet": "TỰ",
+		"onyomi": "しょ、ちょ",
+		"nghiaHanViet": "tình tự"
+	},
+  {
+		"sort": 254,
+		"kanji": "置",
+		"hanViet": "TRÍ",
+		"onyomi": "ち",
+		"nghiaHanViet": "bố trí, bài trí, vị trí"
+	},
+  {
+		"sort": 255,
+		"kanji": "美",
+		"hanViet": "MỸ",
+		"onyomi": "び、み",
+		"nghiaHanViet": "mĩ nhân, mĩ lệ"
+	},
+  {
+		"sort": 262,
+		"kanji": "舞",
+		"hanViet": "VŨ",
+		"onyomi": "ぶ、む",
+		"nghiaHanViet": "vũ điệu, khiêu vũ"
+	},
+	{
+		"sort": 265,
+		"kanji": "若",
+		"hanViet": "NHƯỢC",
+		"onyomi": "じゃく、にゃく、にゃ",
+		"nghiaHanViet": "trẻ tuổi, nhược niên"
+	},
+  {
+		"sort": 273,
+		"kanji": "規",
+		"hanViet": "QUY,QUI",
+		"onyomi": "き",
+		"nghiaHanViet": "quy tắc, quy luật"
+	},
+  {
+		"sort": 285,
+		"kanji": "識",
+		"hanViet": "THỨC",
+		"onyomi": "しき",
+		"nghiaHanViet": "nhận thức, kiến thức, tri thức"
+	},
+  {
+		"sort": 281,
+		"kanji": "誤",
+		"hanViet": "NGỘ",
+		"onyomi": "ご",
+		"nghiaHanViet": "ngộ nhận"
+	},
+  {
+		"sort": 297,
+		"kanji": "辞",
+		"hanViet": "TỪ",
+		"onyomi": "じ",
+		"nghiaHanViet": "từ vựng, từ chức"
+	},
+  {
+		"sort": 306,
+		"kanji": "速",
+		"hanViet": "TỐC",
+		"onyomi": "そく",
+		"nghiaHanViet": "tốc độ, tăng tốc"
+	},
+	{
+		"sort": 308,
+		"kanji": "遅",
+		"hanViet": "TRÌ",
+		"onyomi": "ち",
+		"nghiaHanViet": "muộn"
+	},
+	{
+		"sort": 305,
+		"kanji": "途",
+		"hanViet": "ĐỒ",
+		"onyomi": "と",
+		"nghiaHanViet": "tiền đồ"
+	},
+  {
+		"sort": 315,
+		"kanji": "部",
+		"hanViet": "BỘ",
+		"onyomi": "ぶ",
+		"nghiaHanViet": "bộ môn, bộ phận"
+	},
+  {
+		"sort": 327,
+		"kanji": "難",
+		"hanViet": "NẠN,NAN",
+		"onyomi": "なん",
+		"nghiaHanViet": "khó khăn, gian nan"
+	},
+  {
+		"sort": 329,
+		"kanji": "静",
+		"hanViet": "TĨNH",
+		"onyomi": "せい、じょう",
+		"nghiaHanViet": "bình tĩnh, trấn tĩnh"
+	},
+  {
+		"sort": 330,
+		"kanji": "非",
+		"hanViet": "PHI",
+		"onyomi": "ひ",
+		"nghiaHanViet": "phi nhân đạo, phi nghĩa"
+	},
+  {
+		"sort": 336,
+		"kanji": "類",
+		"hanViet": "LOẠI",
+		"onyomi": "るい",
+		"nghiaHanViet": "chủng loại"
+	},
+  {
+		"sort": 339,
+		"kanji": "髪",
+		"hanViet": "PHÁT",
+		"onyomi": "はつ",
+		"nghiaHanViet": "tóc"
+	},
+  {
+		"sort": 344,
+		"kanji": "額",
+		"hanViet": "NGẠCH",
+		"onyomi": "がく",
+		"nghiaHanViet": "cái trán, khoản tiền"
+	},
+  {
+		"sort": 346,
+		"kanji": "録",
+		"hanViet": "LỤC",
+		"onyomi": "ろく",
+		"nghiaHanViet": "kí lục, đăng lục"
+	},
+  {
+		"sort": 349,
+		"kanji": "賞",
+		"hanViet": "THƯỞNG",
+		"onyomi": "しゅう",
+		"nghiaHanViet": "giải thưởng, tưởng thưởng"
+	},
+  {
+		"sort": 352,
+		"kanji": "導",
+		"hanViet": "ĐẠO",
+		"onyomi": "どう",
+		"nghiaHanViet": "dẫn đường, chỉ đạo"
+	},
+	{
+		"sort": 351,
+		"kanji": "課",
+		"hanViet": "KHÓA",
+		"onyomi": "か",
+		"nghiaHanViet": "khóa học, chính khóa"
+	},
+	{
+		"sort": 354,
+		"kanji": "編",
+		"hanViet": "BIÊN",
+		"onyomi": "へん",
+		"nghiaHanViet": "biên tập"
+	},
+  {
+		"sort": 357,
+		"kanji": "練",
+		"hanViet": "LUYỆN",
+		"onyomi": "れん",
+		"nghiaHanViet": "rèn luyện, luyện tập"
+	},
+
+  {
+    "sort": 384,
+    "kanji": "引",
+    "hanViet": "DẪN",
+    "onyomi": "いん",
+    "nghiaHanViet": "Kéo dài, rút ra"
+  },
+  {
+    "sort": 380,
+    "kanji": "首",
+    "hanViet": "THỦ",
+    "onyomi": "しゅ",
+    "nghiaHanViet": "đầu, cổ, thủ tướng"
+  },
+  {
+    "sort": 375,
+    "kanji": "兆",
+    "hanViet": "TRIỆU",
+    "onyomi": "しょう",
+    "nghiaHanViet": "triệu chứng"
+  },
+  {
+    "sort": 377,
+    "kanji": "合",
+    "hanViet": "HỢP,CÁP",
+    "onyomi": "ごう、がっ、かっ",
+    "nghiaHanViet": "thích hợp, hội họp, hợp lí"
+  },
+  {
+    "sort": 372,
+    "kanji": "塩",
+    "hanViet": "DIÊM",
+    "onyomi": "えん",
+    "nghiaHanViet": "muối"
+  },
+  {
+    "sort": 369,
+    "kanji": "油",
+    "hanViet": "DU",
+    "onyomi": "ゆ、ゆう",
+    "nghiaHanViet": "dầu"
+  },
+  {
+    "sort": 366,
+    "kanji": "板",
+    "hanViet": "BẢN,BẢNG",
+    "onyomi": "はん、バん",
+    "nghiaHanViet": "tấm bảng"
+  },
+  {
+    "sort": 365,
+    "kanji": "波",
+    "hanViet": "BA",
+    "onyomi": "は",
+    "nghiaHanViet": "sóng nhỏ"
+  },
+  {
+    "sort": 363,
+    "kanji": "的",
+    "hanViet": "ĐÍCH",
+    "onyomi": "てき",
+    "nghiaHanViet": "mục đích, đích thực"
+  },
+  {
+    "sort": 376,
+    "kanji": "民",
+    "hanViet": "DÂN",
+    "onyomi": "ミん",
+    "nghiaHanViet": "quốc dân, dân tộc"
+  },
+  {
+    "sort": 371,
+    "kanji": "舟",
+    "hanViet": "CHU,CHÂU",
+    "onyomi": "しゅう",
+    "nghiaHanViet": "thuyền"
+  },
+  {
+    "sort": 382,
+    "kanji": "進",
+    "hanViet": "TIẾN,TẤN",
+    "onyomi": "しん",
+    "nghiaHanViet": "thăng tiến, tiền tiến, tiến lên"
+  },
+  {
+    "sort": 361,
+    "kanji": "委",
+    "hanViet": "ỦY",
+    "onyomi": "い",
+    "nghiaHanViet": "ủy viên, ủy ban, ủy thác"
+  },
+  {
+    "sort": 381,
+    "kanji": "都",
+    "hanViet": "ĐÔ",
+    "onyomi": "ト、し",
+    "nghiaHanViet": "đô thị, đô thành"
+  },
+  {
+    "sort": 378,
+    "kanji": "市",
+    "hanViet": "THỊ",
+    "onyomi": "し",
+    "nghiaHanViet": "thành thị, thị trường"
+  },
+  {
+    "sort": 373,
+    "kanji": "逆",
+    "hanViet": "NGHỊCH",
+    "onyomi": "ぎゃく、げき",
+    "nghiaHanViet": "phản nghịch"
+  },
+  {
+    "sort": 370,
+    "kanji": "勇",
+    "hanViet": "DŨNG",
+    "onyomi": "ユう",
+    "nghiaHanViet": "dũng cảm"
+  },
+  {
+    "sort": 379,
+    "kanji": "回",
+    "hanViet": "HỒI",
+    "onyomi": "かい、え",
+    "nghiaHanViet": "vu hồi, chương hồi"
+  },
+  {
+    "sort": 374,
+    "kanji": "厚",
+    "hanViet": "HẬU",
+    "onyomi": "コう",
+    "nghiaHanViet": "nồng hậu, hậu tạ"
+  },
+  {
+    "sort": 367,
+    "kanji": "版",
+    "hanViet": "PHẢN",
+    "onyomi": "はん",
+    "nghiaHanViet": "xuất bản"
+  },
+  {
+    "sort": 364,
+    "kanji": "卒",
+    "hanViet": "TỐT",
+    "onyomi": "そし、しゅし",
+    "nghiaHanViet": "tốt nghiệp"
+  },
+  {
+    "sort": 362,
+    "kanji": "底",
+    "hanViet": "ĐỂ",
+    "onyomi": "てい",
+    "nghiaHanViet": "đáy"
+  },
+  {
+    "sort": 383,
+    "kanji": "産",
+    "hanViet": "SẢN",
+    "onyomi": "さん",
+    "nghiaHanViet": "sản xuất, sinh sản"
+  },
+  {
+    "sort": 368,
+    "kanji": "武",
+    "hanViet": "VŨ,VÕ",
+    "onyomi": "ぶ、む",
+    "nghiaHanViet": "vũ trang, vũ lực"
+  },
+  {
+    "sort": 360,
+    "kanji": "河",
+    "hanViet": "HÀ",
+    "onyomi": "か",
+    "nghiaHanViet": "sông, sơn hà"
+  }
+]
